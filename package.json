@@ -1,0 +1,13 @@
+{
+  "name": "ip-d2",
+  "version": "1.0.0",
+  "description": "A robot to warn when my remote IP Address changes.",
+  "main": "app.js",
+  "repository": "https://github.com/marcosleonel/ip-d2",
+  "author": "Marcos Leonel <leonel.coder@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": "16.2.0"
+  }
+}
